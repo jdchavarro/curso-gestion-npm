@@ -1,0 +1,19 @@
+{
+  "name": "curso-gestion-npm",
+  "version": "1.0.0",
+  "description": "aprendiendo npm construyendo un paquete",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdchavarro/curso-gestion-npm.git"
+  },
+  "author": "jdchavarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdchavarro/curso-gestion-npm/issues"
+  },
+  "homepage": "https://github.com/jdchavarro/curso-gestion-npm#readme"
+}
